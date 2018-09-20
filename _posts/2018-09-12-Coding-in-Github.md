@@ -6,6 +6,15 @@ permalink: /coding-in-github/
 source-id: 1XsAMHbxze1sfS5CdXB-mrQhi6qBxT1DCcWIKalg_zm4
 published: true
 ---
+<html>
+  <head>
+    <style>
+      table, th, td{
+      border: 1px solid black;
+      }
+    </style>
+      </head>
+  <body>
 <table>
   <tr>
     <td>Title</td>
@@ -74,5 +83,5 @@ published: true
     <td></td>
   </tr>
 </table>
-
+</body>
 
